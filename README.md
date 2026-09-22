@@ -31,24 +31,6 @@ The quiz works in the following way:
 7. The website checks the selected answers.
 8. The final score/result is displayed to the user.
 
-### Example
-
-```text
-Question:
-Which language is used to structure a web page?
-
-A. Python
-B. HTML
-C. Java
-D. SQL
-
-User selects:
-B. HTML
-
-Result:
-Correct Answer
-```
-
 ## Purpose of the Project
 
 The main purpose of this project is to create an interactive quiz application while learning the basics of web development.
